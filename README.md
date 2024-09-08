@@ -34,6 +34,9 @@ _2. Data Science Fundamentals:_
 
 - Statistics, Data Analytics Questions
 - Probability Questions
+- SQL Leetcode
+- Case studies
+- A/B testing
 - Data Science Lifecycle
 
 _3. Machine Learing Fundamentals:_
